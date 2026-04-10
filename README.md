@@ -1,5 +1,10 @@
 # 👨‍💻 Hugo Arboleda Rincón | DESARROLLADOR MULTIPLATAFORMA Y WEB
 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hugoarboledarincon17@gmail.com)
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/34722335129)
+
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hugo%20Arboleda&fontSize=90&animation=fadeIn&fontAlignY=38&desc=DESARROLLADOR%20DAM%20Y%20WEB&descSize=30&descAlignY=55" alt="Banner Hugo Arboleda" />
 </p>
