@@ -38,9 +38,9 @@ Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)**. Mi perfi
 
 A continuación, muestro ejemplos de mi trabajo en desarrollo y diseño:
 
-| Proyecto / Diseño | Captura de Pantalla |
+| Proyecto / Diseño | PRESENTACIÓN |
 | :--- | :--- |
-| **Arquitectura de Software**<br>Soluciones robustas en Java. | ![Captura de Software Java](./proyecto1.png) |
+| **Arquitectura de Software**<br>VIDEOJUEGO | ![Captura de Software Java](./proyecto1.png) |
 | **Desarrollo Web (v1)**<br>Interfaz limpia con HTML/CSS/JS. | ![Captura de Web 1](./WEB1.PNG.png) |
 | **Desarrollo Web (v2)**<br>Optimización de UX/UI. | ![Captura de Web 2](./WEB2.png) |
 
