@@ -28,8 +28,8 @@ Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)**. Mi perfi
 ### 🚀 Mis Proyectos Destacados
 
 ![Descripción de la imagen](./proyecto1.png)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUÍ&show_icons=true&theme=vision-friendly-dark)
-
+![Descripción de la imagen](./WEB1.PNG.png)
+![Descripción de la imagen](./WEB2.png)
 ---
 
 ### 🎨 Valor Añadido
