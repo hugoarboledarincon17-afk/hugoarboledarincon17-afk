@@ -1,8 +1,5 @@
 # 👨‍💻 Hugo Arboleda Rincón | DESARROLLADOR MULTIPLATAFORMA Y WEB
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hugoarboledarincon17@gmail.com)
-
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/34722335129)
 
 
 <p align="center">
@@ -15,6 +12,10 @@
 
 ### 👨‍💻 Sobre mí
 Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)**. Mi perfil combina la precisión de la **lógica matemática**, la sensibilidad del **arte** y una sólida base técnica en el desarrollo de software. Me apasiona construir soluciones que sean tan robustas por dentro como elegantes por fuera.🚀
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hugoarboledarincon17@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/34722335129)
+
+
 
 * 🌍 **Idiomas:**
     * 🇪🇸 **Español:** Nativo
@@ -60,4 +61,13 @@ A continuación, muestro ejemplos de mi trabajo en desarrollo y diseño:
 ---
 
 ### 📫 Contacto
-Estoy abierto a
+
+Estoy abierto a oportunidades laborales, proyectos colaborativos o simplemente a charlar sobre tecnología y arte.
+
+
+
+- 📧 **Correo:** [hugoarboledarincon17@gmail.com](mailto:hugoarboledarincon17@gmail.com)
+
+- 📱 **Teléfono/WhatsApp:** [+34 722 33 51 29](https://wa.me/34722335129)
+
+
