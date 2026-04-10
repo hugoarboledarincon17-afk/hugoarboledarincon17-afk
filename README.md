@@ -25,7 +25,9 @@ Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)**. Mi perfi
 ---
 
 ### 📊 Mis Estadísticas de GitHub
-(fnaf-1.png)
+### 🚀 Mis Proyectos Destacados
+
+![Descripción de la imagen](./proyecto1.png)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUÍ&show_icons=true&theme=vision-friendly-dark)
 
 ---
