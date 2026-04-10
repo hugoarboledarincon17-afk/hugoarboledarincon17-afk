@@ -52,6 +52,23 @@ A continuación, muestro ejemplos de mi trabajo en desarrollo y diseño:
 
 ---
 
+## 🚀 Proyectos Destacados
+
+| 🍅 Temporizador Pomodoro | 👕 E-Commerce de Ropa |
+| :--- | :--- |
+| ![Pomodoro](./proyecto1.png) | ![Web Ropa](./WEB1.PNG.png) |
+| **Pomodoro Hugo Arboleda** | **Tienda Online de Moda** || **JUEGO EN PROCESO** |
+| 🛠️ **Tech:** JavaScript, HTML, CSS | 🛠️ **Tech:** HTML5, CSS3, Responsive Design |
+| [📂 Explorar Repositorio](https://github.com/hugoarboledarincon17-afk/pomodoro-hugo-arboleda) | [📂 Explorar Repositorio](https://github.com/hugoarboledarincon17-afk/PAGIN-AWEB-DE-ROPA) |
+
+---
+
+### 🔍 Detalles de los Proyectos
+
+* **Pomodoro Hugo Arboleda:** Una herramienta de productividad basada en la gestión del tiempo. Enfocada en una lógica de JavaScript limpia para el manejo de intervalos y una interfaz minimalista que no distrae al usuario.
+* **PAGINA WEB DE ROPA:** Un proyecto de frontend enfocado en la experiencia de usuario (UX) y el diseño visual (UI). Implementa un diseño adaptable (responsive) para que la tienda se vea perfecta en móviles y ordenadores.
+---
+
 ### 🎨 Valor Añadido
 1.  **Mentalidad Analítica:** Gracias a mi base matemática, abordo los algoritmos y la estructura de datos con gran agilidad.
 2.  **Visión Estética:** Como artista, cuido la experiencia de usuario (UX) y el diseño visual (UI) para que el software sea atractivo.
