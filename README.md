@@ -33,10 +33,8 @@ Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)**. Mi perfi
 ### 📊 Mis Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hugoarboledarincon17-afk&show_icons=true&theme=vision-friendly-dark&hide=contribs,prs" alt="Estadísticas de Hugo" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugoarboledarincon17-afk&layout=compact&theme=vision-friendly-dark" alt="Idiomas más usados" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hugoarboledarincon17-afk&theme=tokyo-night&hide_border=true%22 width="100%" />
 </p>
-
 ---
 
 ### 🚀 Mis Proyectos Destacados
