@@ -43,6 +43,7 @@ Estoy abierto a oportunidades laborales, proyectos colaborativos o simplemente a
 
 - 📧 **Correo:** [hugoarboledarincon17@gmail.com](mailto:hugoarboledarincon17@gmail.com)
 - 📱 **Teléfono/WhatsApp:** [+34 722 33 51 29](https://wa.me/34722335129)
-- ⚡ **Dato curioso:** Puedo encontrar la armonía entre una función de Java y una composición artística.
+
+
 
 ---
