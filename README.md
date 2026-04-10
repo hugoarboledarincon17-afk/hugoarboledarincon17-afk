@@ -6,10 +6,7 @@
 
 ---
 
-<p align="center">
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hugoarboledarincon17@gmail.com)
-  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/34722335129)
-</p>
+
 
 ### 👨‍💻 Sobre mí
 Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)**. Mi perfil combina la precisión de la **lógica matemática**, la sensibilidad del **arte** y una sólida base técnica en el desarrollo de software. Me apasiona construir soluciones que sean tan robustas por dentro como elegantes por fuera.🚀
