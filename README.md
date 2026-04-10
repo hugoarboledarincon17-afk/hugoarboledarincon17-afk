@@ -1,14 +1,23 @@
- Hugo Arboleda Rincón | DESARROLLADOR DE APLICACIONES MULTIPLATAFORMA Y WEB.
+# 👨‍💻 Hugo Arboleda Rincón | DESARROLLADOR MULTIPLATAFORMA Y WEB
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hugoarboledarincon17@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/34722335129)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hugo%20Arboleda&fontSize=90&animation=fadeIn&fontAlignY=38&desc=DESARROLLADOR%20DAM%20Y%20WEB&descSize=30&descAlignY=55" alt="Banner Hugo Arboleda" />
+</p>
+
+---
+
+<p align="center">
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hugoarboledarincon17@gmail.com)
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/34722335129)
+</p>
 
 ### 👨‍💻 Sobre mí
-Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)**. Mi perfil combina la precisión de la **lógica matemática**, la sensibilidad del **arte** y una sólida base técnica en el desarrollo de software. Me apasiona construir soluciones que sean tan robustas por dentro como elegantes por fuera.
+Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)**. Mi perfil combina la precisión de la **lógica matemática**, la sensibilidad del **arte** y una sólida base técnica en el desarrollo de software. Me apasiona construir soluciones que sean tan robustas por dentro como elegantes por fuera.🚀
 
-* 🌍 **Idiomas:** * 🇪🇸 Español (Nativo)
-  * 🇬🇧 Inglés (Nivel B2 - Comunicación fluida)
-  * 🇫🇷 Francés (Nivel A2 - Competencia básica)
+* 🌍 **Idiomas:**
+    * 🇪🇸 **Español:** Nativo
+    * 🇬🇧 **Inglés:** B2 (Comunicación fluida)
+    * 🇫🇷 **Francés:** A2 (Competencia básica)
 * 🎯 **Enfoque actual:** Especializándome en arquitecturas escalables con Java y desarrollo web dinámico (HTML/CSS/JS).
 * 🧠 **Filosofía:** "La programación es el arte de resolver problemas mediante la lógica aplicada".
 
@@ -25,11 +34,24 @@ Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)**. Mi perfi
 ---
 
 ### 📊 Mis Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hugoarboledarincon17-afk&show_icons=true&theme=vision-friendly-dark&hide=contribs,prs" alt="Estadísticas de Hugo" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugoarboledarincon17-afk&layout=compact&theme=vision-friendly-dark" alt="Idiomas más usados" />
+</p>
+
+---
+
 ### 🚀 Mis Proyectos Destacados
 
-![Descripción de la imagen](./proyecto1.png)
-![Descripción de la imagen](./WEB1.PNG.png)
-![Descripción de la imagen](./WEB2.png)
+A continuación, muestro ejemplos de mi trabajo en desarrollo y diseño:
+
+| Proyecto / Diseño | Captura de Pantalla |
+| :--- | :--- |
+| **Arquitectura de Software**<br>Soluciones robustas en Java. | ![Captura de Software Java](./proyecto1.png) |
+| **Desarrollo Web (v1)**<br>Interfaz limpia con HTML/CSS/JS. | ![Captura de Web 1](./WEB1.PNG.png) |
+| **Desarrollo Web (v2)**<br>Optimización de UX/UI. | ![Captura de Web 2](./WEB2.png) |
+
 ---
 
 ### 🎨 Valor Añadido
@@ -41,11 +63,4 @@ Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)**. Mi perfi
 ---
 
 ### 📫 Contacto
-Estoy abierto a oportunidades laborales, proyectos colaborativos o simplemente a charlar sobre tecnología y arte.
-
-- 📧 **Correo:** [hugoarboledarincon17@gmail.com](mailto:hugoarboledarincon17@gmail.com)
-- 📱 **Teléfono/WhatsApp:** [+34 722 33 51 29](https://wa.me/34722335129)
-
-
-
----
+Estoy abierto a
