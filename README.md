@@ -56,7 +56,7 @@ A continuación, muestro ejemplos de mi trabajo en desarrollo y diseño:
 
 | 🍅 Temporizador Pomodoro | 👕 E-Commerce de Ropa |
 | :--- | :--- |
-| ![Pomodoro](./proyecto1.png) | ![Web Ropa](./WEB1.PNG.png) |
+| ![Pomodoro](./POMODORO.PNG) | ![Web Ropa](./WEB1.PNG.png) |
 | **Pomodoro Hugo Arboleda** | **Tienda Online de Moda** || **JUEGO EN PROCESO** |
 | 🛠️ **Tech:** JavaScript, HTML, CSS | 🛠️ **Tech:** HTML5, CSS3, Responsive Design |
 | [📂 Explorar Repositorio](https://github.com/hugoarboledarincon17-afk/pomodoro-hugo-arboleda) | [📂 Explorar Repositorio](https://github.com/hugoarboledarincon17-afk/PAGIN-AWEB-DE-ROPA) |
