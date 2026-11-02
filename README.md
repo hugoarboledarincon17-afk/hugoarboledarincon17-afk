@@ -1,4 +1,4 @@
-# 👨‍💻 Hugo Arboleda Rincón | DESARROLLADOR MULTIPLATAFORMA Y WEB
+# 👨‍💻 Hugo Arboleda Rincón | DESARROLLADOR MULTIPLATAFORMA 
 
 
 
