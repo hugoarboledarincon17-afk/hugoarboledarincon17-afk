@@ -46,7 +46,7 @@ A continuación, muestro ejemplos de mi trabajo en desarrollo y diseño:
 
 | Proyecto / Diseño | PRESENTACIÓN |
 | :--- | :--- |
-| **Arquitectura de Software**<br>VIDEOJUEGO | ![Captura de Software Java](./proyecto1.png)(./sala 4 oscura german (1).png)  |https://github.com/tired36/five-nights-at-atlantida
+| **Arquitectura de Software**<br>VIDEOJUEGO | ![Captura de Software Java](./proyecto1.png) | **Arquitectura de Software**<br>VIDEOJUEGO | <img src="./sala 4 oscura german (1).png" alt="Sala 4" width="300"> |
 | **Desarrollo Web (v1)**<br>Interfaz limpia con HTML/CSS/JS. | ![Captura de Web 1](./WEB1.PNG.png) |
 | **Desarrollo Web (v2)**<br>Optimización de UX/UI. | ![Captura de Web 2](./WEB2.png) |
 
